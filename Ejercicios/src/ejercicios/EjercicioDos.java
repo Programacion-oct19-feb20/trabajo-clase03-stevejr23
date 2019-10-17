@@ -7,18 +7,15 @@ package ejercicios;
 
 /**
  *
- * @author reroes
+ * @author UTPL
  */
-public class Ejercicios {
-
-    /**
-     * @param args the command line arguments
-     */
+public class EjercicioDos {
     public static void main(String[] args) {
-        // TODO code application logic here
-        String mensaje = "Loja";
-        System.out.println(mensaje);
-        
+     int edad;
+     edad = 30;
+     
+     System.out.println(edad);
+     
     }
-    
-}
+    } 
+
